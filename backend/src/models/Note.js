@@ -1,3 +1,4 @@
+import mongoose from "mongoose";
 // for models, we capitalize the first letter of the file name and keep the name as a singular noun
 
 // Step 1: Create Schema
