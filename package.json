@@ -6,11 +6,8 @@
     "build": "npm install --prefix backend && npm install --prefix frontend && npm run build --prefix frontend",
     "start": "npm run start --prefix backend"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/droid-225/MERN-App-Tutorial.git"
-  },
   "keywords": [],
   "author": "Rishit Shah",
-  "license": "ISC"
+  "license": "ISC",
+  "description": ""
 }
